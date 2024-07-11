@@ -1,6 +1,6 @@
 # rpsls
 
-A Soundboard Flutter project.
+Flutter mobile game app of Rock, Paper, Scissors, Lizard, Spock, designed entirely by AI.
 
 ## Getting Started
 
